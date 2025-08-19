@@ -49,5 +49,7 @@ Start the server:
 java src.ChipiChipiServer
 ```
 In separate terminals, run multiple clients:
-```java src.ChipiChipiClientGUI```
+```
+java src.ChipiChipiClientGUI
+```
 ⚡ Always run the server first, then clients.
