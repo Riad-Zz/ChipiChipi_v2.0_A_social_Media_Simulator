@@ -1,0 +1,7 @@
+temp;1234;18;male;bd;riad;
+test;1234;18;Male;BD;temp2;
+Riad22;1234;78;Male;BD;Riad;
+Riad;1234;18;MAle;BD;Riad22;
+temp2;1234;18;18;BD;riad,test;
+bro;1234;18;Male;Bangladesh;riad;
+riad;1234;18;male;bd;temp,bro,temp2;
