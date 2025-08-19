@@ -53,3 +53,8 @@ In separate terminals, run multiple clients:
 java src.ChipiChipiClientGUI
 ```
 ⚡ Always run the server first, then clients.
+### 🔹 Clone the Repository
+```bash
+git clone https://github.com/Riad-Zz/ChipiChipi_v2.0_A_social_Media_Simulator.git
+cd ChipiChipi_v2.0_A_social_Media_Simulator
+```
